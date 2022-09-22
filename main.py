@@ -78,12 +78,12 @@ EMOJIOS = [
       "🧨",
       "⚡",
       "❄️",
-      "🤡",
+      "🔎",
       "👻",
-      "🎃",
+      "🤧",
       "🎩",
       "🕊",
-      "🕷️",
+      "⭐",
 ]
       
 STICKER = [
@@ -101,8 +101,8 @@ STICKER = [
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
+        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
         InlineKeyboardButton(
@@ -111,8 +111,8 @@ DEV_OP = [
         ),
     ],
     [
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ❄️", url=f"https://github.com/NAINA-XD/NAINA-CHATBOT"),
-        InlineKeyboardButton(text="☁️ ᴜᴘᴅᴀᴛᴇs ☁️", url=f"https://t.me/{UPDATE_CHNL}"),
+        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url=f"https://github.com/NAINA-XD/NAINA-CHATBOT"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/{UPDATE_CHNL}"),
     ],
 ]
 PNG_BTN = [
@@ -123,7 +123,7 @@ PNG_BTN = [
          ),
      ],
      [
-         InlineKeyboardButton(text="✨ sᴜᴘᴘᴏʀᴛ ✨", 
+         InlineKeyboardButton(text="🍑 sᴜᴘᴘᴏʀᴛ 🍑", 
                               url=f"https://t.me/{SUPPORT_GRP}",
          ),
      ],
